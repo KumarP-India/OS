@@ -13,6 +13,13 @@ Welcome to this project's Readme file. While there isn't much information to sha
 As of now, this project is still in its early stages, and there isn't much information to share about it. We don't even have a name for the project yet! However, we will be adding some basic information about the project as we develop it.
 
 
+## Reference guide for files
+
+> Every Folder has its own Readme file. If you think that folder is helpful for you, it's recommended to read it.
+
+1. [__Time Management__](/Management_files_for_Creator_s_/): All of the files related to the _scedule_ & _development phases_ are kept in [Management_files_for_Creator_s_](/Management_files_for_Creator_s_/)
+
+
 ## Footnote
 
 - This file may have been edited by AI.
