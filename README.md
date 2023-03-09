@@ -19,7 +19,7 @@ As of now, this project is still in its early stages, and there isn't much infor
 
 > Every Folder has its own Readme file. If you think that folder is helpful for you, it's recommended to read it.
 
-1. [__Time Management__](/Management_files_for_Creator_s_/): All of the files related to the _scedule_ & _development phases_ are kept in [Management_files_for_Creator_s_](/Management_files_for_Creator_s_/)
+1. [__Development Doc__](/Management_files_for_Creator_s_/): All of the files related to the _scedule_ & _development phases_ and about development like How does a thing works etc. are kept in [Management_files_for_Creator_s_](/Management_files_for_Creator_s_/)
 
 
 ## Footnote
