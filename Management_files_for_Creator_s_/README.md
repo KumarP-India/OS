@@ -5,6 +5,11 @@
 Welcome to this folder's Readme file. All of the files related to the _scedule_ & _development phases_ and about development like How does a thing works etc.
 
 
+## Development Process
+
+Right now we are following [this article](https://www.wikihow.com/Make-a-Computer-Operating-System) from [WikiHow](https://www.wikihow.com/). Upon completion we will create futher steps.
+
+
 
 ## Reference guide for files
 
