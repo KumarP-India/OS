@@ -2,6 +2,8 @@
 \
 Define the target hardware platform and system requirements.
 
+> Answered in [_Design\_Phase_](./ChatGPT/Phase/Design_Phase.md#defining-the-backgroud-for-os-development)
+
 Choose programming languages and tools to use.
 
 Study the design principles of existing operating systems.
