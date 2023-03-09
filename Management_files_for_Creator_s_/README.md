@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to this folder's Readme file. All files related to the _schedule_ & _development phases_ are kept here.
+Welcome to this folder's Readme file. All of the files related to the _scedule_ & _development phases_ and about development like How does a thing works etc.
 
 
 
