@@ -12,6 +12,8 @@ Welcome to this folder's Readme file. All files related to the _schedule_ & _dev
 
 2. [__Phase/Design_Phase__](./ChatGPT/Phase/Design_Phase.md): This contains the information from web search and ChatGPT for the design phase from [_Phase_](./Phase.md). I'll try to include as much information as possible.
 
+3. [__Wiki__](./Wiki/): This folder contains all the information about the development of OS.
+
 
 ## Footnote
 
