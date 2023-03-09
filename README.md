@@ -7,6 +7,8 @@
 
 Welcome to this project's Readme file. While there isn't much information to share at this time, we hope to provide a basic overview of the project.
 
+> I've decided that I would use Wiki for full documentation. So keep checking them too.
+
 
 ## Status
 
