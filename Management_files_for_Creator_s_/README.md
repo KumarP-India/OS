@@ -7,7 +7,7 @@ Welcome to this folder's Readme file. All of the files related to the _scedule_ 
 
 ## Development Process
 
-Right now we are following [this article](https://www.wikihow.com/Make-a-Computer-Operating-System) from [WikiHow](https://www.wikihow.com/). Upon completion we will create futher steps.
+My process is defined in the [_prior-knowledge_](./Wiki/learning.md#prior_knowledge) and added in the [__Project OS__](https://github.com/users/Kumar-P05/projects/3).
 
 
 

@@ -7,7 +7,7 @@ This is the folder where the documentation and information about how OS are buil
 
 ## Reference guide for files
 
-1. sex
+1. [__Prior Knowledge__](./prior_knowledge.md): This is the place where I tell you how will I learn about things that are needed to build OS.
 
 
 ## Footnote
